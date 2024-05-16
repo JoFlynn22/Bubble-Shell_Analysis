@@ -1,3 +1,3 @@
 ## Sorting Algorith Comparison
 
-The code provided in this repository contains multiple sorting algorithms 
+The code provided in this repository contains two sorting algorithms (Bubble and Shell) in which the number of inversions and the Chebyshev's distance is being compared with increasing number of elements. The final results, as well as visuals showing this analysis can be found in 
